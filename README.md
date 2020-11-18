@@ -19,7 +19,7 @@ installation
 
 Installing wail2ban is a case of a view simple tasks: 
 
- * copy all the repository files to a location on the client machine, e.g. `C:\scripts\wail2ban`
+ * copy all the repository files to a location on the client machine, e.g. `C:\AdmScripts\`
  * Using Task Scheduler, import the `start wail2ban onstartup.xml` file to automatically create a scheduled task to start the script when the machine boots. 
  * Initiate the script by running the `start wail2ban.bat` file. This is what the scheduled task starts. 
 

@@ -2,7 +2,7 @@
 <Task version="1.2" xmlns="http://schemas.microsoft.com/windows/2004/02/mit/task">
   <RegistrationInfo>
     <Date>2012-01-01T13:37:00.0000000</Date>
-    <Author>glasnt</Author>
+    <Author>mpsoft</Author>
   </RegistrationInfo>
   <Triggers>
     <BootTrigger>
@@ -36,7 +36,7 @@
   </Settings>
   <Actions Context="Author">
     <Exec>
-      <Command>C:\scripts\wail2ban\start_wail2ban.bat</Command>
+      <Command>C:\AdmScripts\start_wail2ban.bat</Command>
     </Exec>
   </Actions>
 </Task>
